@@ -142,6 +142,7 @@ footer {
     bottom: 30px;
     left: 30px;
 }
+/*fin*/
 
 /*début du CV*/
 h2{
@@ -149,4 +150,11 @@ color: #64acff;
 }
 .cv{
     font-family:"Arial Black", Arial, Verdana, sans-serif;
+}
+.rouges{
+    color: red;
+}
+.bleu{
+    color: blue 
+
 }
